@@ -5,7 +5,9 @@
 }
 .cabecalho-titulo{
     color: black;
-    front-weight: 800;
+    front-size: 3rem;
+    line-height: 1.2;
+    margin-bottom: 20px;
 }
 .cabecalho-menu{
     display:block;
